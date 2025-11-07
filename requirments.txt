@@ -1,0 +1,6 @@
+# Requirements for this Notebook:
+
+# *   Python 3
+# *   pandas library (`pip install pandas`)
+# *   numpy library (`pip install numpy`)
+# *   `text.csv` and `text1.csv` files
